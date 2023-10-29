@@ -1,0 +1,17 @@
+Compose-ShoppingList
+
+Screenshots
+image
+
+Used Tech
+Kotlin
+MVVM
+Compose - Modern toolkit for building native UI.
+Ambient - Compose passes data through the composition tree.
+Coroutines - Provide sophisticated tools to handle concurrency.
+Declarative UI Patterns
+Lifecycles - Create a UI that automatically responds to lifecycle events.
+LiveData - Build data objects that notify views when the underlying database changes.
+Room - Access your app's SQLite database with in-app objects and compile-time checks.
+Test - An Android testing framework for unit and runtime UI tests.
+ViewModel - Store UI-related data that isn't destroyed on app rotations. Easily schedule asynchronous tasks.
