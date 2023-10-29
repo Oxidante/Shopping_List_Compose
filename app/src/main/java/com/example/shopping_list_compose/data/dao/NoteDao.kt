@@ -1,10 +1,11 @@
-package com.example.shopping_list_compose.data
+package com.example.shopping_list_compose.data.dao
 
 import androidx.room.Dao
 import androidx.room.Delete
 import androidx.room.Insert
 import androidx.room.OnConflictStrategy
 import androidx.room.Query
+import com.example.shopping_list_compose.data.NoteItem
 import kotlinx.coroutines.flow.Flow
 
 @Dao

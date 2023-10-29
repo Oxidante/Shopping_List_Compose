@@ -1,4 +1,4 @@
-package com.example.shopping_list_compose.data
+package com.example.shopping_list_compose.data.dao
 
 import androidx.room.Dao
 import androidx.room.Delete
@@ -6,6 +6,8 @@ import androidx.room.Insert
 import androidx.room.OnConflictStrategy
 import androidx.room.Query
 import androidx.room.Update
+import com.example.shopping_list_compose.data.AddItem
+import com.example.shopping_list_compose.data.ShoppingListItem
 import kotlinx.coroutines.flow.Flow
 
 @Dao
