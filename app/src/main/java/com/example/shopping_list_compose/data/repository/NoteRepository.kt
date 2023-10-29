@@ -1,6 +1,6 @@
 package com.example.shopping_list_compose.data.repository
 
-import com.example.shopping_list_compose.data.NoteItem
+import com.example.shopping_list_compose.data.item.NoteItem
 import kotlinx.coroutines.flow.Flow
 
 interface NoteRepository {

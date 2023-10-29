@@ -1,7 +1,7 @@
 package com.example.shopping_list_compose.data.repository
 
 import com.example.shopping_list_compose.data.dao.ShoppingListDao
-import com.example.shopping_list_compose.data.ShoppingListItem
+import com.example.shopping_list_compose.data.item.ShoppingListItem
 import kotlinx.coroutines.flow.Flow
 
 class ShoppingListRepoImpl(
