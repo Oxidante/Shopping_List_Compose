@@ -1,4 +1,4 @@
-package com.example.shopping_list_compose
+package com.example.shopping_list_compose.data.preview
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
